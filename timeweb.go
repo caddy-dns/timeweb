@@ -78,7 +78,7 @@ func (p *Provider) UnmarshalCaddyfile(d *caddyfile.Dispenser) error {
 	}
 
 	if p.Provider.ApiURL == "" {
-		p.Provider.ApiURL = "https://api.timeweb.cloud/api/v1"
+		p.Provider.ApiURL = "https://api.timeweb.cloud/"
 	}
 
 	return nil
