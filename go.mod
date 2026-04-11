@@ -4,7 +4,7 @@ go 1.26.1
 
 require (
 	github.com/caddyserver/caddy/v2 v2.11.2
-	github.com/libdns/timeweb v1.1.0
+	github.com/libdns/timeweb v1.1.1
 )
 
 require (
