@@ -1,4 +1,4 @@
-module github.com/veynko/timeweb-caddy
+module github.com/caddy-dns/timeweb
 
 go 1.26.1
 
